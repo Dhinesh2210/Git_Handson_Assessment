@@ -1,1 +1,2 @@
-Implementing fetch  using git
+Implementing fetch using Git
+Implementing pull using Git
