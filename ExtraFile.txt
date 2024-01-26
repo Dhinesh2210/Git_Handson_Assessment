@@ -1,0 +1,1 @@
+Create a new repository in Github/Gitlab, with a README file. While pushing to the remote repository, if the remote branch is ahead of the local repository (a new file is added in the remote repository, which is not there in the local repository) and pull is failing, how do you solve this problem?.
